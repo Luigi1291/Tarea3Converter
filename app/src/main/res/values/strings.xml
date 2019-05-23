@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_value_text">Insert value here</string>
+    <string name="item_Key">KEY</string>
+    <string name="item_Value">VALUE</string>
+    <string name="api_Access_Key">87b4eb15551411e03a61d6b59918b8f7</string>
+    <string name="api_Url">http://apilayer.net/api/live</string>
+</resources>
